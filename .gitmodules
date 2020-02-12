@@ -1,0 +1,3 @@
+[submodule "3rd/addontool"]
+	path = 3rd/addontool
+	url = https://github.com/dertom95/addontool.git
